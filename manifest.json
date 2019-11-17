@@ -1,0 +1,8 @@
+{
+	"name": "LinkBookmark",
+	"version": "6.9",
+	"description": "Save links as a bookmark without opening them",
+	"manifest_version": 2,
+	"permissions": ["contextMenus", "bookmarks"],
+	"background": {"page": "background.html"}
+}
